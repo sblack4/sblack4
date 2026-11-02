@@ -1,16 +1,11 @@
-- 👋 Hi, I’m @sblack4
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Steven Black · cloud architect at [Rhythmic Technologies](https://www.rhythmictech.com)
 
-<!---
-sblack4/sblack4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design and build AWS platforms as code: multi-account landing zones, network and edge security, CI/CD for infrastructure, and secrets management.
 
+- **IaC:** Terraform, CloudFormation, Ansible, Packer
+- **Security:** IAM Identity Center, SCPs, GuardDuty, Secrets Manager/KMS, SAML-federated Client VPN, WAF
+- **Networking:** Transit Gateway, multi-VPC and hybrid connectivity
+- **Pipelines:** GitHub Actions, Atlantis, pre-commit
+- **Run it:** ECS, EKS, Lambda, Datadog
 
-- [ ] asdf
-- [ ] asdf
-- [x] asdfa
-
+Most of my work is in private client repos. Public Terraform modules I've built or maintained live under [@rhythmictech](https://github.com/rhythmictech?q=terraform-aws).
