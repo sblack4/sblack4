@@ -1,4 +1,4 @@
-### Steven Black · cloud architect at [Rhythmic Technologies](https://www.rhythmictech.com)
+### Steven Black · principal engineer at [Rhythmic Technologies](https://www.rhythmictech.com)
 
 I design and build AWS platforms as code: multi-account landing zones, network and edge security, CI/CD for infrastructure, and secrets management.
 
