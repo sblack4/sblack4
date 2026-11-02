@@ -1,10 +1,10 @@
 ### Steven Black · principal engineer at [Rhythmic Technologies](https://www.rhythmictech.com)
 
-I design and build AWS platforms as code: multi-account landing zones, network and edge security, CI/CD for infrastructure, and secrets management.
+I design, build, and secure cloud platforms as code, and help companies get ready for SOC 2. AWS is home (GovCloud included); I've also delivered on Azure and Oracle Cloud (OCI), and I'd like to do more on GCP.
 
+- **Cloud architecture:** multi-account landing zones, Control Tower, Transit Gateway and hybrid networking
+- **Security & compliance:** SOC 2 readiness assessments and audit prep, control implementation, IAM Identity Center, SCPs, GuardDuty, Security Hub, Secrets Manager/KMS, WAF
 - **IaC:** Terraform, CloudFormation, Ansible, Packer
-- **Security:** IAM Identity Center, SCPs, GuardDuty, Secrets Manager/KMS, SAML-federated Client VPN, WAF
-- **Networking:** Transit Gateway, multi-VPC and hybrid connectivity
 - **Pipelines:** GitHub Actions, Atlantis, pre-commit
 - **Run it:** ECS, EKS, Lambda, Datadog
 
